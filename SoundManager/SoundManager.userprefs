@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MusicPlayer/MusicPlayer/Scripts/Music Player/Playlist.cs">
+    <Files>
+      <File FileName="../../../../../Documents/New Unity Projects/PatUnityClassLibraries/PatStuff/PatStuff/Classes/ListExtensions.cs" Line="6" Column="2" />
+      <File FileName="Assets/MusicPlayer/MusicPlayer/Scripts/Music Player/ListExtensions.cs" Line="18" Column="2" />
+      <File FileName="Assets/MusicPlayer/MusicPlayer/Scripts/Music Player/Playlist.cs" Line="4" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
